@@ -1,4 +1,23 @@
 {
- "updated_at": null,
- "reports": []
+ "updated_at": "2026-11-03T23:30:07+05:30",
+ "reports": [
+  {
+   "date": "2026-11-03",
+   "label": "Tuesday, 3 November 2026",
+   "headline": "Nasdaq -1.07%, Brent settles $104.77; GIFT Nifty +93 vs close, Kospi -2.47%",
+   "points": [
+    "Nifty closed Monday at 23,440.80 (+1.68%). GIFT Nifty was 23,533.50 at 7:24 AM IST, 92.70 points above it (one source).",
+    "US close Monday: Dow +0.41%, S&P 500 -0.51%, Nasdaq -1.07%. VIX rose 8.91% to 21.15.",
+    "Brent settled at $104.77 (-7.63%) and WTI at $96.46 (-7.36%). Reuters linked it to US-Iran peace hopes.",
+    "Asia early Tuesday: Kospi -2.47%, Shanghai -1.18%, Hang Seng -0.09% (one live source). Japan is closed for Culture Day.",
+    "Today: Nifty weekly expiry; SBI, Bajaj Finserv, Lupin and MCX Q2 results; US midterm elections; AMD reports after the US close."
+   ],
+   "pdf": "reports/2026/11/FinCafe_PreMarket_Report_2026-11-03.pdf",
+   "cover": "reports/2026/11/FinCafe_PreMarket_Report_2026-11-03_cover.jpg",
+   "pages": 18,
+   "size_kb": 931,
+   "data_as_of": "NSE feed 03-Nov-2026 07:31:27 IST",
+   "published_at": "2026-11-03T23:30:07+05:30"
+  }
+ ]
 }
