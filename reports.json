@@ -1,6 +1,24 @@
 {
- "updated_at": "2026-11-03T23:30:07+05:30",
+ "updated_at": "2026-11-04T17:46:27+05:30",
  "reports": [
+  {
+   "date": "2026-11-04",
+   "label": "Wednesday, 4 November 2026",
+   "headline": "Nifty +1.58%, FII +₹6,837 Cr; Nasdaq +0.83%, Brent $103.60",
+   "points": [
+    "Nifty closed Tuesday at 23,810.85 (+1.58%). GIFT Nifty was 23,725 at 03:01 AM IST, 85.85 points below it (one source).",
+    "US close Tuesday: Dow -0.38%, S&P 500 +0.36%, Nasdaq +0.83%. S&P 500 futures were 0.5% lower early Wednesday (Reuters).",
+    "AMD's Q3 revenue was $13.38 billion, with Q4 guidance of about $17 billion. US midterm votes were still being counted.",
+    "Brent settled at $103.60 (-1.12%). Tuesday cash flows: FII +₹6,836.80 crore, DII -₹3,678.80 crore.",
+    "Today: Apollo Hospitals, BSE, Aurobindo Pharma and Biocon Q2 results scheduled; US ADP and ISM data this evening IST."
+   ],
+   "pdf": "reports/2026/11/FinCafe_PreMarket_Report_2026-11-04.pdf",
+   "cover": "reports/2026/11/FinCafe_PreMarket_Report_2026-11-04_cover.jpg",
+   "pages": 18,
+   "size_kb": 898,
+   "data_as_of": "NSE feed 04-Nov-2026 07:17:23 IST",
+   "published_at": "2026-11-04T17:46:27+05:30"
+  },
   {
    "date": "2026-11-03",
    "label": "Tuesday, 3 November 2026",
