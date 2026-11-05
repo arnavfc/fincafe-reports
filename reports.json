@@ -1,6 +1,24 @@
 {
- "updated_at": "2026-11-04T17:46:27+05:30",
+ "updated_at": "2026-11-05T08:23:22+05:30",
  "reports": [
+  {
+   "date": "2026-11-05",
+   "label": "Thursday, 5 November 2026",
+   "headline": "Nifty +0.63%, FII +₹7,284 Cr, Brent $94.62",
+   "points": [
+    "Nifty closed Wednesday at 23,960.60 (+0.63%). GIFT Nifty was 24,309.50 at 07:21 IST, 348.90 points above it (one source).",
+    "US close Wednesday: Dow +3.03%, S&P 500 +1.58%, Nasdaq +1.44%. Democrats won Congress, CNBC and AP projected.",
+    "Brent settled at $94.62 (-8.67%). Early Thursday: Kospi -3.6%, Nikkei -0.39% (Business Standard).",
+    "Wednesday cash flows, provisional: FII +₹7,284 crore, DII -₹3,712.20 crore. Rupee 94.58, 17 paise stronger (PTI).",
+    "Today: Bharti Airtel, Titan and Bharat Forge Q2 results scheduled; US jobless claims 7:00 PM IST."
+   ],
+   "pdf": "reports/2026/11/FinCafe_PreMarket_Report_2026-11-05.pdf",
+   "cover": "reports/2026/11/FinCafe_PreMarket_Report_2026-11-05_cover.jpg",
+   "pages": 18,
+   "size_kb": 889,
+   "data_as_of": "NSE feed 05-Nov-2026 08:15:30 IST",
+   "published_at": "2026-11-05T08:23:22+05:30"
+  },
   {
    "date": "2026-11-04",
    "label": "Wednesday, 4 November 2026",
