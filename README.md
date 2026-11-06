@@ -5,6 +5,7 @@ Public feed for the daily **FinCafe – Stock Market Institute** Pre-Market Repo
 
 - `reports.json`: list of published reports, newest first (date, headline, 5 points, PDF and cover paths).
 - `reports/YYYY/MM/`: the approved PDF and its cover image for each day.
+- `carousels/YYYY-MM-DD-<case>/`: slide images for FinCafe Research Instagram carousels, hosted here so the scheduler (Metricool) can fetch them.
 
 Only reports approved by FinCafe are published here, by `publish_site.py`.
 Information and education only. Not investment advice.
