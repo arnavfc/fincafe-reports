@@ -1,6 +1,24 @@
 {
- "updated_at": "2026-11-05T08:23:22+05:30",
+ "updated_at": "2026-11-06T07:40:54+05:30",
  "reports": [
+  {
+   "date": "2026-11-06",
+   "label": "Friday, 6 November 2026",
+   "headline": "Nifty +2.40%, then Nasdaq -5.52%, Kospi halted, Brent $98.29",
+   "points": [
+    "Nifty closed Thursday at 24,536.60 (+2.40%). GIFT Nifty was 24,421.50 at 07:13 IST, 115.10 points below it (one source).",
+    "After India's close, the US fell: Dow -3.44%, S&P 500 -4.36%, Nasdaq -5.52%. CNBC linked it to AI-spending fears after Democrats' win.",
+    "Friday in Asia: Kospi opened 8.55% lower at 4,923.47 and trading halted 20 minutes. Nikkei fell about 5% in early trade (AFP).",
+    "Thursday cash, provisional: FII +₹14,974.70 crore, DII -₹10,444.50 crore. Brent settled $98.29 (+3.88%, Reuters). Rupee flat at 94.46 (PTI).",
+    "Today: Hindalco, Bosch, Voltas listed for Q2 results; US jobs report 7:00 PM IST. Monday: Nifty expiry. Tuesday: holiday."
+   ],
+   "pdf": "reports/2026/11/FinCafe_PreMarket_Report_2026-11-06.pdf",
+   "cover": "reports/2026/11/FinCafe_PreMarket_Report_2026-11-06_cover.jpg",
+   "pages": 18,
+   "size_kb": 894,
+   "data_as_of": "NSE feed 06-Nov-2026 07:21:01 IST",
+   "published_at": "2026-11-06T07:40:54+05:30"
+  },
   {
    "date": "2026-11-05",
    "label": "Thursday, 5 November 2026",
