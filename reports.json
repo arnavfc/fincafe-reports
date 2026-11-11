@@ -1,6 +1,24 @@
 {
- "updated_at": "2026-11-06T07:40:54+05:30",
+ "updated_at": "2026-11-11T07:30:24+05:30",
  "reports": [
+  {
+   "date": "2026-11-11",
+   "label": "Wednesday, 11 November 2026",
+   "headline": "Nifty +0.23% at 25,044.65 Monday; US CPI +0.4% in October, Nasdaq −0.74% Tuesday",
+   "points": [
+    "Mon 9 Nov: Nifty +0.23% to 25,044.65, Sensex +0.13% to 81,106.65. NSE was shut Tue 10 Nov; today is the first session since.",
+    "PSU Bank index +3.7% and Nifty IT −1.2% Monday (HDFC Sky). FII +₹7,212.20 cr, DII −₹7,172.50 cr (cash, provisional).",
+    "US October CPI +0.4% m/m, core +0.3% (BLS). Tuesday: S&P 500 −0.38%, Nasdaq −0.74%, Dow −0.30%.",
+    "GIFT Nifty 25,326.50 at 06:51 IST (Quantsapp), a futures indication that also traded during India's holiday.",
+    "Brent settled $91.49 Tuesday (−1.17%). India October CPI due Thu 12 Nov; Nifty weekly expiry Tue 17 Nov."
+   ],
+   "pdf": "reports/2026/11/FinCafe_PreMarket_Report_2026-11-11.pdf",
+   "cover": "reports/2026/11/FinCafe_PreMarket_Report_2026-11-11_cover.jpg",
+   "pages": 18,
+   "size_kb": 842,
+   "data_as_of": "NSE feed 11-Nov-2026 07:14:38 IST",
+   "published_at": "2026-11-11T07:30:24+05:30"
+  },
   {
    "date": "2026-11-06",
    "label": "Friday, 6 November 2026",
