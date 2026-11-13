@@ -1,6 +1,24 @@
 {
- "updated_at": "2026-11-11T07:30:24+05:30",
+ "updated_at": "2026-11-13T07:31:10+05:30",
  "reports": [
+  {
+   "date": "2026-11-13",
+   "label": "Friday, 13 November 2026",
+   "headline": "Nifty +0.18% at 25,299.35 Thursday; India October CPI 6.09%; Nvidia CEO exit, US indices −0.4%, Brent $95.82",
+   "points": [
+    "Thu 12 Nov: Nifty +0.18% to 25,299.35, Sensex +0.04% to 81,911.01; NSE breadth 2,377 up, 1,878 down (HDFC Sky).",
+    "India's October CPI inflation: 6.09% vs 5.54% in September, above the RBI's 6% upper limit (MoSPI data via ANI, Xinhua).",
+    "FII +₹7,831 cr, DII −₹6,331 cr in cash on 12 Nov (NSE provisional, via NiftyTrader and 5paisa).",
+    "US Thursday: Dow −0.36%, S&P 500 −0.35%, Nasdaq −0.39% (AP); Nvidia −4.34% after announcing CEO Jensen Huang's resignation.",
+    "Brent settled $95.82 (+3.30%) after Indian hours. No Friday-morning GIFT Nifty reading verified."
+   ],
+   "pdf": "reports/2026/11/FinCafe_PreMarket_Report_2026-11-13.pdf",
+   "cover": "reports/2026/11/FinCafe_PreMarket_Report_2026-11-13_cover.jpg",
+   "pages": 18,
+   "size_kb": 862,
+   "data_as_of": "NSE feed 13-Nov-2026 07:20:28 IST",
+   "published_at": "2026-11-13T07:31:10+05:30"
+  },
   {
    "date": "2026-11-11",
    "label": "Wednesday, 11 November 2026",
