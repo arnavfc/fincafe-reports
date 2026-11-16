@@ -1,6 +1,24 @@
 {
- "updated_at": "2026-11-13T07:31:10+05:30",
+ "updated_at": "2026-11-16T07:30:35+05:30",
  "reports": [
+  {
+   "date": "2026-11-16",
+   "label": "Monday, 16 November 2026",
+   "headline": "Nifty −0.61% at 25,144.30 Friday; FII +₹5,737 cr; Nasdaq −0.91%; Japan Q3 GDP shrinks; Nvidia results due Tuesday",
+   "points": [
+    "Fri 13 Nov: Nifty −0.61% to 25,144.30, Sensex −0.39% to 81,592.45 (Business Standard, HDFC Sky).",
+    "FII +₹5,736.55 cr, DII −₹2,253.58 cr in cash on 13 Nov (provisional; Kotak Neo, Tapetide).",
+    "US Friday: Dow +0.10%, S&P 500 −0.40%, Nasdaq −0.91% (AP, Xinhua).",
+    "Japan's July–September GDP shrank an annualised 0.1% vs a forecast 0.3% rise (Reuters); Kospi opened +0.28% Monday.",
+    "GIFT Nifty last at 25,262.50 (02:44 IST Sat), 118 points above Nifty's close; no Monday-morning reading verified."
+   ],
+   "pdf": "reports/2026/11/FinCafe_PreMarket_Report_2026-11-16.pdf",
+   "cover": "reports/2026/11/FinCafe_PreMarket_Report_2026-11-16_cover.jpg",
+   "pages": 18,
+   "size_kb": 862,
+   "data_as_of": "NSE feed 16-Nov-2026 07:20:22 IST",
+   "published_at": "2026-11-16T07:30:35+05:30"
+  },
   {
    "date": "2026-11-13",
    "label": "Friday, 13 November 2026",
