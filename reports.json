@@ -1,6 +1,24 @@
 {
- "updated_at": "2026-11-16T07:30:35+05:30",
+ "updated_at": "2026-11-17T07:30:29+05:30",
  "reports": [
+  {
+   "date": "2026-11-17",
+   "label": "Tuesday, 17 November 2026",
+   "headline": "Nifty +0.58% at 25,291.10 Monday; FII +₹4,865 cr; Nasdaq −2.49% as Nvidia falls; Kospi opens −1.81%; Nifty weekly expiry today",
+   "points": [
+    "Mon 16 Nov: Nifty +0.58% to 25,291.10, Sensex +0.63% to 82,104.79 (Upstox, Kotak Neo, Liquide).",
+    "FII +₹4,864.68 cr, DII −₹3,519.05 cr in cash on 16 Nov (provisional; Kotak Neo, Business Standard).",
+    "US Monday: Dow −1.41%, S&P 500 −1.92%, Nasdaq −2.49%; Nvidia −4.1% (AP, STL.News).",
+    "Kospi opened −1.81% on Tuesday (Seoul Economic Daily); Brent settled at $92.44, −3.5% (AP).",
+    "October WPI inflation 12.29% vs 11.39% in September (Business Standard)."
+   ],
+   "pdf": "reports/2026/11/FinCafe_PreMarket_Report_2026-11-17.pdf",
+   "cover": "reports/2026/11/FinCafe_PreMarket_Report_2026-11-17_cover.jpg",
+   "pages": 18,
+   "size_kb": 855,
+   "data_as_of": "NSE feed 17-Nov-2026 07:21:29 IST",
+   "published_at": "2026-11-17T07:30:29+05:30"
+  },
   {
    "date": "2026-11-16",
    "label": "Monday, 16 November 2026",
