@@ -1,6 +1,24 @@
 {
- "updated_at": "2026-11-17T07:30:29+05:30",
+ "updated_at": "2026-11-18T07:30:58+05:30",
  "reports": [
+  {
+   "date": "2026-11-18",
+   "label": "Wednesday, 18 November 2026",
+   "headline": "Nifty +0.38% at 25,387.40 Tuesday; Bank Nifty record close; FII +₹4,195 cr; Nvidia Q3 revenue $115.8 bn; Kospi opens higher",
+   "points": [
+    "Tue 17 Nov: Nifty +0.38% to 25,387.40, Sensex +0.52% to 82,532.19; Bank Nifty +1.13% to a record close of 62,273.25 (IIFL, Upstox, Kotak Neo).",
+    "FII +₹4,195.38 cr, DII +₹196.93 cr in cash on 17 Nov (provisional; Kotak Neo, Trendlyne).",
+    "US Tuesday: Dow −1.64%, S&P 500 −1.03%, Nasdaq −0.74% before Nvidia's results (Vista P Global, Capp Notes, Motley Fool).",
+    "Nvidia Q3 FY27 revenue $115.8 bn, +103% YoY; Q4 outlook $130 bn ±3% (company release). Kospi opened about 2.6–2.9% higher on Wednesday.",
+    "Brent settled at $93.14 (+0.76%) on Tuesday (Rigzone); rupee closed at 93.51 per dollar, provisional, a seven-month high (PTI)."
+   ],
+   "pdf": "reports/2026/11/FinCafe_PreMarket_Report_2026-11-18.pdf",
+   "cover": "reports/2026/11/FinCafe_PreMarket_Report_2026-11-18_cover.jpg",
+   "pages": 18,
+   "size_kb": 875,
+   "data_as_of": "NSE feed 18-Nov-2026 07:27:47 IST",
+   "published_at": "2026-11-18T07:30:58+05:30"
+  },
   {
    "date": "2026-11-17",
    "label": "Tuesday, 17 November 2026",
