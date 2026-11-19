@@ -1,6 +1,24 @@
 {
- "updated_at": "2026-11-18T07:30:58+05:30",
+ "updated_at": "2026-11-19T07:30:43+05:30",
  "reports": [
+  {
+   "date": "2026-11-19",
+   "label": "Thursday, 19 November 2026",
+   "headline": "Nifty −0.63% at 25,227.95 Wednesday; FII +₹5,867 cr, DII −₹3,160 cr; Dow −1.11%, Nasdaq +0.42% after Fed minutes; Brent $91.95",
+   "points": [
+    "Wed 18 Nov: Nifty −0.63% to 25,227.95, Sensex −0.61% to 82,031.81, Bank Nifty −0.38% (Upstox, HDFC Sky, Liquide).",
+    "FII +₹5,866.78 cr, DII −₹3,159.90 cr in cash on 18 Nov (provisional; Kotak Neo, Trendlyne).",
+    "US Wednesday: Dow −1.11%, S&P 500 −0.23%, Nasdaq +0.42%; Nvidia −2.89% after results.",
+    "Fed minutes: almost all members saw more rate hikes as likely appropriate (Capp Notes).",
+    "Brent settled $91.95 (−1.28%); rupee 93.44 per dollar, 7 paise stronger (provisional, PTI)."
+   ],
+   "pdf": "reports/2026/11/FinCafe_PreMarket_Report_2026-11-19.pdf",
+   "cover": "reports/2026/11/FinCafe_PreMarket_Report_2026-11-19_cover.jpg",
+   "pages": 18,
+   "size_kb": 872,
+   "data_as_of": "NSE feed 19-Nov-2026 07:23:27 IST",
+   "published_at": "2026-11-19T07:30:43+05:30"
+  },
   {
    "date": "2026-11-18",
    "label": "Wednesday, 18 November 2026",
