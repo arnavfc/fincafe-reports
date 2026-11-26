@@ -1,6 +1,24 @@
 {
- "updated_at": "2026-11-25T08:36:36+05:30",
+ "updated_at": "2026-11-26T07:35:39+05:30",
  "reports": [
+  {
+   "date": "2026-11-26",
+   "label": "Thursday, 26 November 2026",
+   "headline": "Nifty +1.85% to 25,819.25 Wednesday; FII +₹4,479 cr, DII +₹4,019 cr; Brent +3.5% to $94.61; Nikkei, Kospi up Thursday",
+   "points": [
+    "Wed 25 Nov: Nifty +1.85% to 25,819.25, Sensex +1.82% to 83,938.28, Bank Nifty +1.79%; FMCG led.",
+    "FII +₹4,479.08 cr, DII +₹4,018.72 cr in cash on 25 Nov (provisional).",
+    "US Wednesday: Dow +0.33% after erasing a 1,100-point fall; S&P 500 −0.25%, Nasdaq −0.62%. US shut today (Thanksgiving).",
+    "Asia Thursday early trade: Nikkei +1.81%, Kospi +2.07% (JBizNews).",
+    "Brent settled $94.61 (+3.5%); rupee 92.16 per dollar, 69 paise stronger (provisional, PTI)."
+   ],
+   "pdf": "reports/2026/11/FinCafe_PreMarket_Report_2026-11-26.pdf",
+   "cover": "reports/2026/11/FinCafe_PreMarket_Report_2026-11-26_cover.jpg",
+   "pages": 18,
+   "size_kb": 873,
+   "data_as_of": "NSE feed 26-Nov-2026 07:29:56 IST",
+   "published_at": "2026-11-26T07:35:39+05:30"
+  },
   {
    "date": "2026-11-25",
    "label": "Wednesday, 25 November 2026",
